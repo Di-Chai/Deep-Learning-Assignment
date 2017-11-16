@@ -1,8 +1,8 @@
 # Deep-Learning-Assignment
 
-# Name : Chai Di
+Name : Chai Di
 
-# Student ID : 20458239
+Student ID : 20458239
 
 Project 1:
 
