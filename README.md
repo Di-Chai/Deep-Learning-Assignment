@@ -9,3 +9,9 @@ Project 1:
     Prediction : /Project1/project1_20458239.csv
 
     Report     : /Project1/project1_20458239_report.pdf
+    
+Project 2:
+
+    Prediction : /Project1/project2_20458239.csv
+
+    Report     : /Project1/project2_20458239_report.pdf
