@@ -16,4 +16,4 @@ Project 2:
 
     Report     : /Project1/project2_20458239_report.pdf
 
-Reason for changeing file: I just found that I uploaded a wrong version of my result! The uploaded file is not my final result but the baseline-model result.
+Reason for changing file: I just found that I uploaded a wrong version of my result! The uploaded file is not my final result but the baseline-model result.
